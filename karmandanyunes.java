@@ -36,9 +36,9 @@ public class karmandanyunes {
          System.out.println( " name:  "+name[i]+ "semat:  "+semat[i]+" vorody:  "+date[i]);
         
     }
-     if (semat[i].equals("moaven"))  
+     if (semat[i].equals("IT"))  
        {
-           System.out.println("moaven details ");
+           System.out.println("IT details ");
            System.out.println( " name:  "+name[i]+ "semat:  "+semat[i]+" vorody:  "+date[i]);
        }
     
